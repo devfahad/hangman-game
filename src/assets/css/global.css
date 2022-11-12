@@ -1,0 +1,17 @@
+.app {
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.displaywinlose {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.keyboard_container {
+    align-self: stretch;
+}
